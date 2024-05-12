@@ -15,4 +15,8 @@ To perform data analysis with Panda's, I have mentioned 15 questions that we are
 12. Find the email of the person with the following Credit Card Number: 4664825258997302
 13. How many people purchase during the AM and how many people purchase during PM?
 14. How many people have a credit card that expires in 2020?
-15. What are the top 5 most popular email providers (e.g. gmail.com, yahoo.com, etc...) 
+15. What are the top 5 most popular email providers (e.g. gmail.com, yahoo.com, etc...)
+
+Pandas based Query Solution
+
+
