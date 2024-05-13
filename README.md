@@ -2,11 +2,11 @@
 
 To perform data analysis with Panda's, I have mentioned 15 questions that we are going to solve one by one. Questions & Pandas queries are as follows.
 1. Display Top 10 Rows of The Dataset
-
+=> data.head(10)
 2. Check Last 10 Rows of The Dataset
-
+=> data.tail(10)
 3. Check Datatype of Each Column
-
+=>
 4. Check null values in the dataset
 
 5. How many rows and columns are there in our Dataset? 
